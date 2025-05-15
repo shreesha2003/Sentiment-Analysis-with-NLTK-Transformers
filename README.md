@@ -1,10 +1,4 @@
-# Sentiment-Analysis-with-NLTK-Transformers
-
-You're absolutely right — NLTK and Transformers are both central to this project, and the README should explicitly mention them, especially in the **Introduction**, **Installation**, and **Workflow** sections. Here's an updated version of the `README.md` with proper emphasis on `nltk` and `transformers`.
-
----
-
-# 📊 Sentiment Analysis in Python
+# 📊 Sentiment Analysis in Python with-NLTK-Transformers
 
 This repository provides a complete walkthrough of performing sentiment analysis on the [Amazon Fine Food Reviews dataset](https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews?resource=download) using both **rule-based NLP (NLTK VADER)** and **deep learning (Hugging Face Transformers - RoBERTa)**. It includes data exploration, visualization, model comparison, and hands-on example reviews.
 
